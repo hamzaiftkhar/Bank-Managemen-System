@@ -1,7 +1,3 @@
-Certainly! Here's a README file for your provided code:
-
----
-
 # Bank Management System
 
 A simple bank management system implemented in C++. The program provides basic functionalities for creating accounts, depositing and withdrawing funds, checking balances, modifying account details, and more.
