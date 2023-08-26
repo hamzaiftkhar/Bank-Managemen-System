@@ -35,7 +35,7 @@ This program simulates a basic bank management system. It includes a login syste
 1. Clone the repository to your local machine using:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/hamzaiftkhar/Bank-Managemen-System.git
    ```
 
 2. Navigate to the project directory:
