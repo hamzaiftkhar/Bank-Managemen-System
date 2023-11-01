@@ -2,15 +2,6 @@
 
 A simple bank management system implemented in C++. The program provides basic functionalities for creating accounts, depositing and withdrawing funds, checking balances, modifying account details, and more.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This program simulates a basic bank management system. It includes a login system to ensure secure access. Users can create accounts, perform transactions, check balances, and manage account information.
